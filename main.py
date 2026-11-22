@@ -9,6 +9,7 @@ import os
 # New store owners just launched: they need copy now and have no agency
 # yet, so a free audit converts far better than cold outreach to old shops.
 # Assumes a 4% close rate on the audit offer and a 33% upsell rate.
+# Close 12 of 300 audits at $25, upsell 4 refreshes at $49/mo: $496 by day 30.
 PLAN = (
     "Days 1-3: find 300 new Shopify owners on X/Reddit ('just launched "
     "my store'). Email each a free 1-page audit. Sell $25 audit + 10 "
