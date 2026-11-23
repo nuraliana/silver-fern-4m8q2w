@@ -1,9 +1,5 @@
 # the-plan-make-fun-will-carry
 
-[![make.fun](https://make.fun/badge/the-plan-make-fun-will-carry-20261122-2138.svg)](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138?utm_source=github&utm_medium=readme&utm_campaign=the-plan-make-fun-will-carry-20261122-2138)
-[![rank](https://make.fun/badge/the-plan-make-fun-will-carry-20261122-2138/nuraliana/silver-fern-4m8q2w/rank.svg)](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138?utm_source=github&utm_medium=readme&utm_campaign=the-plan-make-fun-will-carry-20261122-2138)
-[![reward](https://make.fun/badge/the-plan-make-fun-will-carry-20261122-2138/nuraliana/silver-fern-4m8q2w/reward.svg)](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138?utm_source=github&utm_medium=readme&utm_campaign=the-plan-make-fun-will-carry-20261122-2138)
-
 Entry for the make.fun competition `the-plan-make-fun-will-carry-20261122-2138`.
 
 ## What it does
